@@ -1,0 +1,11 @@
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\bin\Debug\NOTEPAD PLus.exe.config
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\bin\Debug\NOTEPAD PLus.exe
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\bin\Debug\NOTEPAD PLus.pdb
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD_PLus.Form1.resources
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD_PLus.Properties.Resources.resources
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD PLus.csproj.GenerateResource.Cache
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD PLus.exe
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD PLus.pdb
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD_PLus.frmabout.resources
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD PLus.csproj.AssemblyReference.cache
+G:\projects\NOTEPAD PLus\NOTEPAD PLus\NOTEPAD PLus\obj\Debug\NOTEPAD PLus.csproj.CoreCompileInputs.cache
